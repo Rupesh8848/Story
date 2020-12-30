@@ -1,1 +1,1 @@
-this is a test text. Only for checking git repo.
+this is a test text. Only for checking changed.
